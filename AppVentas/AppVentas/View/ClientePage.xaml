@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppVentas.View.ClientePage"
+             xmlns:archivos="clr-namespace:AppVentas.ViewModel">
+    <ContentPage.BindingContext>
+        <archivos:ClienteVM></archivos:ClienteVM>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Mostrar info" Command="{Binding Accion}"></Button>
+            <Button Text="ejemplo property changing" Clicked="Button_Clicked"></Button>
+            <Entry Text="{Binding MyProperty}"></Entry>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

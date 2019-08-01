@@ -1,0 +1,15 @@
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\bin\Debug\netstandard2.0\AppVentas.deps.json
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\bin\Debug\netstandard2.0\AppVentas.dll
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\bin\Debug\netstandard2.0\ref\AppVentas.dll
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\bin\Debug\netstandard2.0\AppVentas.pdb
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\AppVentas.csprojAssemblyReference.cache
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\View\ClientePage.xaml.g.cs
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\AppVentas.csproj.CoreCompileInputs.cache
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\AppVentas.AssemblyInfoInputs.cache
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\AppVentas.AssemblyInfo.cs
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\AppVentas.dll
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\ref\AppVentas.dll
+C:\Users\samuel\source\repos\AppVentas\AppVentas\AppVentas\obj\Debug\netstandard2.0\AppVentas.pdb
